@@ -17,7 +17,7 @@ Qué quiero decir:
  * El Sistema de Contabilidad Ambiental y Económica nos provee un estándar que nos permite ordenar la información ambiental de manera que sea compatible con la forma de enteder el desempeño económico. El sistema es complementario y puede proveer información a otras metodologías de evaluación del desempeño ambiental, como la de presión, estado, impacto y respuesta (PEIR).  
  * Este informe nos permite reflexionar sobre la forma en que usamos nuestro ambiente para generar bienestar y la importancia que el mismo tiene para los procesos económicos y sociales. Nos permite pensar evaluar cuan sostenible es nuestro crecimiento económico.  -->
 
-<!-- correr esto en una terminal:
+<!-- instalar pandoc, latex y correr esto en una terminal:
 pandoc -o final.docx --filter pandoc-citeproc iae-1_2.md -->
 
 La perspectiva de contabilidad capital natural utilizada en este informe ambiental del estado guatemalateco permite entender, no solo la calidad del ambiente, sino la evolución de las relaciones recíprocas de éste con la sociedad guatemalteca y su economía. Reconoce tácitamente una visión integral en la que diversos subsistemas --económico, social, ambiental, institucional-- interactúan, se complementan o entran en conflicto.  
