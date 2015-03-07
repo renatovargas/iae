@@ -84,4 +84,5 @@ Finalmente, contar con evidencia más solida y completa sobre las relaciones ent
 
 <!-- **PARA CERRAR** - El capital natural interactúa con el capital producido, el capital humano y el capital social. Se ve influenciado por éstos y, de esta manera, se crean condiciones favorables o adversas para el desarrollo social,  económico y ambiental del país. Por esa razón, es importante entender los conflictos y oportunidades ambientales como interacciones entre elementos de las esferas ambiental, económica, social e institucional.  -->
 
+
 ### Bibliografía de la sección
