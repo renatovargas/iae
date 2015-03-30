@@ -34,7 +34,7 @@ No sé a cuál se refiere, pero te puedo describir un vínculo.-->
 
 El comportamiento del activo forestal en la cuenta de bosque [@ine_sistema_2013-1] del país muestra en que en 1950 se contaba con casi siete millones de hectáreas de bosque, las cuales equivalían a un 64.5% del territorio, es decir, casi dos tercios del mismo. Para 2010, la cobertura forestal se había reducido a 3.7 millones de hectáreas o 34.2% del territorio, lo que representó una disminución en 60 años de casi la mitad del bosque que existía en 1950. Al relacionar esta información con el crecimiento de la población, la situación se reveló más pronunciada pues se pasó de contar con más de 2 hectáreas de bosque a tener menos de media hectárea de bosque por habitante.
 
-**Figura 2.4-01 -  (aproximadamente aquí)**
+**Figura 2.4-01 - Guatemala: Evolución de la cobertura forestal (hectáreas y porcentajes) Periodo 1950-2010 (aproximadamente aquí)**
 
 Los flujos en la cuenta de bosque mostraron que esa disminución forestal se debió, por un lado, al cambio de uso de la tierra (por urbanismo y expansión agropecuaria, principalmente); y por otro, los aprovechamientos de madera para la industria y las construcciones rurales, así como la leña para el consumo doméstico o industrial. Estos rubros explicaron el 94.97% de la reducción en 2006, manteniendo la tendencia hasta 2010 [@ine_sistema_2013-1]. Dos elementos llamaron la atención durante el proceso de compilación de la cuenta de bosque.
 
@@ -46,7 +46,8 @@ El conocimiento sobre el hecho que el Instituto Nacional de Bosques controlaba a
 
 Como reacción al hallazgo de la cuenta de bosque, dos estudios se sumaron a la discusión de política pública, con el fin de entender las razones detrás de las limitaciones en el control del sector forestal. Por una parte, se hizo el estudio sobre _Oferta y demanda de leña en la República de Guatemala_, el cual arrojó que del total de leña demandada por la industria y hogares guatemaltecos, las plantaciones y la industria de procesamiento primario únicamente tenían capacidad para suministrar el 54%, o aproximadamente la mitad, de manera legal [@inab_oferta_2012]. Lo cual confirmaba que el resto necesariamente debía obtenerse de manera ilegal.
 
-**Tabla 2.4-01 - (aproximadamente aquí)**
+**Tabla 2.4-01 - Demanda y Oferta de Leña en Guatemala anual promedio 2001-2010
+(toneladas en base seca y %) (aproximadamente aquí)**
 
 Por otra parte, _La cadena de la tala no controlada en Guatemala_ [@iarna-url_cadena_2009], utilizando una aproximación de cuentas de capital natural a nivel de municipio arrojó varios hallazgos interesantes, entre los que destaca el hecho que los altos niveles de ilegalidad en los municipios se constituyen en una fuerte competencia por precio y hacen inviable la producción en plantaciones lícitas, incentivando cambios de uso de la tierra forestal hacia actividades de mayor y más inmediata renta.
 
