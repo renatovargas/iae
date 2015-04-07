@@ -38,7 +38,7 @@ La riqueza de Guatemala va más allá de la ganancia temporal que el país pueda
 
 El capital natural es una parte fundamental de esa riqueza, no únicamente como proveedor de sustrato a los capitales producido, humano, social  [@lange_environmental_2003; @lange_changing_2011; @pearce_blueprint_1989] y financiero según @goodwin_five_2003 <!--Lange et al, 2003; Harrison, 2011; Pearce, 2000; y Goodwin 2003 -->, sino como proveedor de bienes y servicios ambientales para generar desarrollo económico y social. La suma de todos los capitales conforma la riqueza total del país.  
 
-**Figura 01 - Composición de la riqueza (aproximadamente aquí)**
+
 
 En un esquema sostenible, estos capitales se deben combinar en diferentes magnitudes para proveer un bienestar social que no disminuya a través del tiempo <!--**(Dasgupta, 2001)**--> [@dasgupta_human_2004]. Si la base de riqueza total disminuye, el bienestar futuro se ve comprometido. Eso puede suceder si alguno de los capitales se reduce relativamente, sin que existan inversiones para su recuperación o se invierta proporcionalmente en cualquiera de las otras formas de capital.
 
